@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I'm Pink, iOS developer, Apple Lover 🍎
+
+### Stats
+
+[![PinkPika's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkpika&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkpika&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Project
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pinkpika&repo=APIRequestDesignDemo&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pinkpika&repo=DispatchQueueCase&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **pinkpika/pinkpika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
