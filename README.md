@@ -4,7 +4,7 @@
 
 [![PinkPika's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkpika&show_icons=true&theme=dark)](https://github.com/pinkpika) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkpika&layout=compact&theme=dark&hide=php)](https://github.com/pinkpika)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkpika&layout=compact&theme=dark&exclude_repo=GOSearch,windblog,windblog_data,pinkblog,pinkblog_data)](https://github.com/pinkpika)
 
 #### Project
 
