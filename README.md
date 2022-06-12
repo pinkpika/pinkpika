@@ -2,13 +2,13 @@
 
 ### Stats
 
-[![PinkPika's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkpika&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![PinkPika's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkpika&show_icons=true&theme=dark)](https://github.com/pinkpika) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkpika&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkpika&layout=compact&theme=dark)](https://github.com/pinkpika)
 
 #### Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pinkpika&repo=APIRequestDesignDemo&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pinkpika&repo=DispatchQueueCase&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pinkpika&repo=APIRequestDesignDemo&theme=dark)](https://github.com/pinkpika/APIRequestDesignDemo) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pinkpika&repo=DispatchQueueCase&theme=dark)](https://github.com/pinkpika/DispatchQueueCase)
 
 <!--
 **pinkpika/pinkpika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
